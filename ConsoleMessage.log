@@ -1,0 +1,68 @@
+2025-08-29 21:03:02 ERROR    Garuda Cloud Monitor Bot token not found! Shutting down...
+2025-08-29 21:38:23 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-08-29 21:38:23 DEBUG    Garuda Cloud Monitor Bot presence set to: `Playing SA-MP`
+2025-08-29 21:38:23 DEBUG    Garuda Cloud Monitor  Database connection established.
+2025-08-29 21:38:23 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-08-29 21:38:24 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-08-29 21:40:51 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-08-29 21:40:51 DEBUG    Garuda Cloud Monitor Bot presence set to: `Playing SA-MP`
+2025-08-29 21:40:51 DEBUG    Garuda Cloud Monitor  Database connection established.
+2025-08-29 21:40:51 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-08-29 21:40:52 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-08-29 21:44:33 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-08-29 21:44:33 DEBUG    Garuda Cloud Monitor Bot presence set to: `Playing SA-MP`
+2025-08-29 21:44:33 DEBUG    Garuda Cloud Monitor  Database connection established.
+2025-08-29 21:44:33 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-08-29 21:44:33 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-08-29 21:44:59 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-08-29 21:44:59 DEBUG    Garuda Cloud Monitor Bot presence set to: `Playing SA-MP`
+2025-08-29 21:44:59 INFO     Garuda Cloud Monitor  Migrated: 001_guild_settings.sql
+2025-08-29 21:44:59 INFO     Garuda Cloud Monitor  Migrated: 002_whitelists.sql
+2025-08-29 21:44:59 INFO     Garuda Cloud Monitor  Migrated: 003_infractions.sql
+2025-08-29 21:44:59 INFO     Garuda Cloud Monitor  Migrated: 004_audit_logs.sql
+2025-08-29 21:44:59 INFO     Garuda Cloud Monitor  Migrated: 005_security_events.sql
+2025-08-29 21:44:59 DEBUG    Garuda Cloud Monitor  Database connection established.
+2025-08-29 21:44:59 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-08-29 21:45:33 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor Bot presence set to: `Playing SA-MP`
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor  Database connection established.
+2025-08-29 21:48:02 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-08-29 21:48:03 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor Bot presence set to: `Playing SA-MP`
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor  Database connection established.
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-08-29 21:48:49 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor Bot presence set to: `Playing SA-MP`
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor  Database connection established.
+2025-08-29 21:51:37 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-08-29 21:51:38 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Bot presence set to: `Playing SA-MP`
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Loaded 0 guild settings into memory.
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
