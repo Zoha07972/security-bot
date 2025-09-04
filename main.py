@@ -10,7 +10,7 @@ import RealTimeProtection.Load
 # ---------------------------------------- Variables ----------------------------------------
 logger =ConsoleMessage()
 pool = SQLiteConnectionPool()
-TOKEN = "MTQxMDk5NjI1NDIyNTQ2NTM3NQ.GON-jp.5jvSXBI6S3L0ZRO3zcrV9ya2TedU282Z-TyxBg"
+TOKEN = ""
 if not TOKEN:
     asyncio.run(logger.error("Bot token not found! Shutting down..."))
     raise ValueError("Bot token not found!")
