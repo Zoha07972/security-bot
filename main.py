@@ -5,10 +5,12 @@ import asyncio
 from ConsoleHelper.ConsoleMessage import ConsoleMessage
 from Database.MySqlConnect import SQLiteConnectionPool ,run_migrations
 from Database.DatabaseHelper.Helper import load_mirrors
+import Config.Load
+import RealTimeProtection.Load
 # ---------------------------------------- Variables ----------------------------------------
 logger =ConsoleMessage()
 pool = SQLiteConnectionPool()
-TOKEN = ""
+TOKEN = "MTQxMDk5NjI1NDIyNTQ2NTM3NQ.GON-jp.5jvSXBI6S3L0ZRO3zcrV9ya2TedU282Z-TyxBg"
 if not TOKEN:
     asyncio.run(logger.error("Bot token not found! Shutting down..."))
     raise ValueError("Bot token not found!")
@@ -53,7 +55,8 @@ async def on_message(message):
 async def setup_cogs():
     """Load all necessary cogs and commands."""
     try:
-        pass
+        await Config.Load.setup(bot)
+        await RealTimeProtection.Load.setup(bot)
     except Exception as e:
         logger.error(f" Error loading cogs: `{e}`")
 # -----------------------------------------------------------------------------------

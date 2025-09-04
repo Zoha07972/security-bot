@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# File Name   : db/connection.py
+# File Name   : Database/MySqlConnect.py
 # Description : SQLite connection pool with migration runner. Ensures that all
 #               .sql migration files in the migrations directory are applied
 #               automatically on startup. Tracks applied migrations in a
@@ -8,6 +8,7 @@
 # Author      : X
 # Created On  : 17/08/2025
 # Last Updated: 29/08/2025
+# Import Style:
 # -----------------------------------------------------------------------------
 import sqlite3
 import threading

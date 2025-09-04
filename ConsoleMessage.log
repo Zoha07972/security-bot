@@ -66,3 +66,416 @@
 2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
 2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
 2025-08-29 21:57:46 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Loaded 0 guild settings into memory.
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 12:24:25 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 12:24:26 DEBUG    Garuda Cloud Monitor  Synced 0 slash command(s).
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Loaded 0 guild settings into memory.
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 12:25:08 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 12:25:11 DEBUG    Garuda Cloud Monitor  Synced 2 slash command(s).
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Loaded 0 guild settings into memory.
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 12:28:03 DEBUG    Garuda Cloud Monitor  Synced 2 slash command(s).
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Loaded 0 guild settings into memory.
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 12:57:52 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 12:57:53 DEBUG    Garuda Cloud Monitor  Synced 2 slash command(s).
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Loaded 0 guild settings into memory.
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 13:00:11 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 13:00:12 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 13:00:36 DEBUG    Garuda Cloud Monitor Config Get: guild=1376984168432668723, user=732873905131225109, security_roles=None
+2025-09-04 13:01:12 ERROR    Garuda Cloud Monitor  Failed to log audit action: table audit_logs has no column named action
+2025-09-04 13:01:12 INFO     Garuda Cloud Monitor Config Set: guild=1376984168432668723, user=732873905131225109, security_roles -> [1394368686214746283]
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Loaded 1 guild settings into memory.
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 13:12:12 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 13:12:57 DEBUG    Garuda Cloud Monitor Config Get: guild=1376984168432668723, user=732873905131225109, raidmode=off
+2025-09-04 13:14:50 DEBUG    Garuda Cloud Monitor Config Get: guild=1376984168432668723, user=732873905131225109, security_roles=None
+2025-09-04 13:15:22 INFO     Garuda Cloud Monitor  Audit log recorded: config_set:security_roles by 732873905131225109 (guild=1376984168432668723)
+2025-09-04 13:15:22 INFO     Garuda Cloud Monitor Config Set: guild=1376984168432668723, user=732873905131225109, security_roles -> [1394368686214746283]
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Loaded 1 guild settings into memory.
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 13:19:13 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 13:19:14 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 13:19:30 DEBUG    Garuda Cloud Monitor Config Get: guild=1376984168432668723, user=732873905131225109, security_roles=None
+2025-09-04 13:21:40 DEBUG    Garuda Cloud Monitor Config Get: guild=1376984168432668723, user=732873905131225109, security_roles=None
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Loaded 1 guild settings into memory.
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 13:28:02 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 13:28:03 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Loaded 1 guild settings into memory.
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 13:39:51 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 13:39:52 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Loaded 1 guild settings into memory.
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 13:46:13 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Loaded 1 guild settings into memory.
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 13:48:45 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 13:48:46 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Loaded 2 guild settings into memory.
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 13:51:06 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Loaded 2 guild settings into memory.
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 14:25:03 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 14:25:04 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Loaded 2 guild settings into memory.
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 14:30:50 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 14:30:51 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 14:31:10 INFO     Garuda Cloud Monitor Config fetched: security_roles=<@&1394368686214746283> by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 14:31:19 INFO     Garuda Cloud Monitor Config fetched: raid_threshold=5 by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 14:31:30 INFO     Garuda Cloud Monitor Config fetched: raidmode=off by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 14:31:50 INFO     Garuda Cloud Monitor Config updated: raidmode=on by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 14:32:37 INFO     Garuda Cloud Monitor Config fetched: raid_threshold=5 by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Loaded 9 guild settings into memory.
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 14:34:31 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 14:34:32 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Loaded 9 guild settings into memory.
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 14:48:38 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Loaded 9 guild settings into memory.
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 15:24:43 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 15:24:44 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 15:45:03 INFO     Garuda Cloud Monitor  Migrated: 005_anti_spam.sql
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Loaded 9 guild settings into memory.
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 15:45:03 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 15:45:04 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_anti_spam.sql
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Loaded 9 guild settings into memory.
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 15:45:16 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 15:46:03 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:47:06 INFO     Garuda Cloud Monitor Config fetched: antispam=on by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 15:47:13 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 15:47:17 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 15:47:45 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 15:47:50 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_anti_spam.sql
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 15:50:03 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 15:50:04 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 15:50:38 INFO     Garuda Cloud Monitor  Migrated: 007_anti_spam.sql
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 15:50:38 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 007_anti_spam.sql
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 15:50:54 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 15:51:39 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:52:13 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 15:52:18 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 007_anti_spam.sql
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 15:54:21 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 15:54:22 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:56:46 INFO     Garuda Cloud Monitor Config fetched: raid_action=mute by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 15:57:05 INFO     Garuda Cloud Monitor Config updated: raid_action=timeout by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 007_anti_spam.sql
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 15:58:24 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 15:58:47 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 007_anti_spam.sql
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 16:01:19 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 16:01:32 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 16:01:32 ERROR    Garuda Cloud Monitor Failed to timeout 732873905131225109 in guild 1376984168432668723: timed_out_until must be an aware datetime. Consider using discord.utils.utcnow() or datetime.datetime.now().astimezone() for local time.
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 007_anti_spam.sql
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 16:05:12 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 16:05:13 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 16:07:09 ERROR    Garuda Cloud Monitor  Failed to log security event: table security_events has no column named user_id
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 007_anti_spam.sql
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 16:09:05 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 16:09:06 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 16:10:22 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 16:10:22 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 16:10:22 INFO     Garuda Cloud Monitor  Migrated: 001_guild_settings.sql
+2025-09-04 16:10:22 INFO     Garuda Cloud Monitor  Migrated: 002_whitelists.sql
+2025-09-04 16:10:22 INFO     Garuda Cloud Monitor  Migrated: 003_infractions.sql
+2025-09-04 16:10:22 INFO     Garuda Cloud Monitor  Migrated: 004_audit_logs.sql
+2025-09-04 16:10:22 INFO     Garuda Cloud Monitor  Migrated: 005_security_events.sql
+2025-09-04 16:10:22 INFO     Garuda Cloud Monitor  Migrated: 007_anti_spam.sql
+2025-09-04 16:10:22 DEBUG    Garuda Cloud Monitor Loaded 0 guild settings into memory.
+2025-09-04 16:10:22 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 16:10:22 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 16:10:22 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 16:10:23 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 007_anti_spam.sql
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Loaded 0 guild settings into memory.
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 16:10:36 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 16:10:45 INFO     Garuda Cloud Monitor Config fetched: raid_threshold=5 by syed_mohammad_akhtar_zoha in guild 1376984168432668723
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Bot `Security Bot` has connected to Discord!
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Bot presence Started`
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 001_guild_settings.sql
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 002_whitelists.sql
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 003_infractions.sql
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 004_audit_logs.sql
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 005_security_events.sql
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Skipping already applied migration: 007_anti_spam.sql
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Loaded 14 guild settings into memory.
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor Loaded 0 whitelist entries into memory.
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor  Database connection established and mirrors loaded.
+2025-09-04 16:10:56 DEBUG    Garuda Cloud Monitor  Cogs loaded successfully.
+2025-09-04 16:11:27 INFO     Garuda Cloud Monitor  Security event: spam_detected detected for user 732873905131225109 (guild=1376984168432668723)
+2025-09-04 16:11:43 INFO     Garuda Cloud Monitor  Security event: spam_detected detected for user 732873905131225109 (guild=1376984168432668723)
+2025-09-04 16:11:43 ERROR    Garuda Cloud Monitor Failed to timeout 732873905131225109 in guild 1376984168432668723: 403 Forbidden (error code: 50013): Missing Permissions
+2025-09-04 16:11:46 INFO     Garuda Cloud Monitor  Security event: spam_detected detected for user 732873905131225109 (guild=1376984168432668723)
+2025-09-04 16:11:46 ERROR    Garuda Cloud Monitor Failed to timeout 732873905131225109 in guild 1376984168432668723: 403 Forbidden (error code: 50013): Missing Permissions
+2025-09-04 16:11:50 INFO     Garuda Cloud Monitor  Security event: spam_detected detected for user 732873905131225109 (guild=1376984168432668723)
+2025-09-04 16:11:51 ERROR    Garuda Cloud Monitor Failed to timeout 732873905131225109 in guild 1376984168432668723: 403 Forbidden (error code: 50013): Missing Permissions
+2025-09-04 16:11:53 DEBUG    Garuda Cloud Monitor  Synced 4 slash command(s).
+2025-09-04 16:12:57 INFO     Garuda Cloud Monitor  Security event: spam_detected detected for user 732873905131225109 (guild=1376984168432668723)
+2025-09-04 16:12:58 ERROR    Garuda Cloud Monitor Failed to timeout 732873905131225109 in guild 1376984168432668723: 403 Forbidden (error code: 50013): Missing Permissions
+2025-09-04 16:13:01 INFO     Garuda Cloud Monitor  Security event: spam_detected detected for user 732873905131225109 (guild=1376984168432668723)
+2025-09-04 16:13:01 ERROR    Garuda Cloud Monitor Failed to timeout 732873905131225109 in guild 1376984168432668723: 403 Forbidden (error code: 50013): Missing Permissions
+2025-09-04 16:13:04 INFO     Garuda Cloud Monitor  Security event: spam_detected detected for user 732873905131225109 (guild=1376984168432668723)
+2025-09-04 16:13:05 ERROR    Garuda Cloud Monitor Failed to timeout 732873905131225109 in guild 1376984168432668723: 403 Forbidden (error code: 50013): Missing Permissions

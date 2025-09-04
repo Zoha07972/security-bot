@@ -1,6 +1,6 @@
 import threading
 from Database.MySqlConnect import SQLiteConnectionPool
-from ConsoleHelper.ConsoleMessage import ConsoleMessage  # for logging
+from ConsoleHelper.ConsoleMessage import ConsoleMessage  # For logging
 
 pool = SQLiteConnectionPool()
 logger = ConsoleMessage()
@@ -8,8 +8,8 @@ logger = ConsoleMessage()
 # -------------------------
 # In-Memory Mirrors
 # -------------------------
-_guild_settings = {}   # { guild_id: {setting_key: setting_value} }
-_whitelists = {}       # { guild_id: [ {entity_type, entity_id, value} ] }
+_guild_settings = {}  # {guild_id: {setting_key: setting_value}}
+_whitelists = {}      # {guild_id: [{entity_type, entity_id, value}]}
 _lock = threading.Lock()
 
 
@@ -30,6 +30,7 @@ def load_mirrors():
             cursor.execute("SELECT guild_id, setting_key, setting_value FROM guild_settings")
             rows = cursor.fetchall()
             for guild_id, key, value in rows:
+                guild_id = int(guild_id)  # Ensure int keys
                 if guild_id not in _guild_settings:
                     _guild_settings[guild_id] = {}
                 _guild_settings[guild_id][key] = value
@@ -39,6 +40,7 @@ def load_mirrors():
             cursor.execute("SELECT guild_id, entity_type, entity_id, value FROM whitelists")
             rows = cursor.fetchall()
             for guild_id, etype, eid, val in rows:
+                guild_id = int(guild_id)
                 if guild_id not in _whitelists:
                     _whitelists[guild_id] = []
                 _whitelists[guild_id].append({
@@ -56,11 +58,13 @@ def load_mirrors():
 # -------------------------
 def get_guild_setting(guild_id, key, default=None):
     """Get a setting quickly from memory."""
+    guild_id = int(guild_id)
     return _guild_settings.get(guild_id, {}).get(key, default)
 
 
 def set_guild_setting(guild_id, key, value):
     """Update DB and in-memory mirror for guild_settings."""
+    guild_id = int(guild_id)
     with pool.get_connection() as conn:
         cursor = conn.cursor()
         cursor.execute("""
@@ -84,11 +88,13 @@ def set_guild_setting(guild_id, key, value):
 # -------------------------
 def get_whitelist(guild_id):
     """Get whitelist entries for a guild."""
+    guild_id = int(guild_id)
     return _whitelists.get(guild_id, [])
 
 
 def add_whitelist(guild_id, etype, eid=None, val=None):
     """Add whitelist entry in DB and mirror."""
+    guild_id = int(guild_id)
     inserted = False
     with pool.get_connection() as conn:
         cursor = conn.cursor()
@@ -96,7 +102,7 @@ def add_whitelist(guild_id, etype, eid=None, val=None):
             INSERT OR IGNORE INTO whitelists (guild_id, entity_type, entity_id, value)
             VALUES (?, ?, ?, ?)
         """, (guild_id, etype, eid, val))
-        if cursor.rowcount > 0:   # Only update mirror if new row was inserted
+        if cursor.rowcount > 0:
             inserted = True
         conn.commit()
         cursor.close()
@@ -114,6 +120,7 @@ def add_whitelist(guild_id, etype, eid=None, val=None):
 
 def remove_whitelist(guild_id, etype, eid=None, val=None):
     """Remove whitelist entry in DB and mirror."""
+    guild_id = int(guild_id)
     with pool.get_connection() as conn:
         cursor = conn.cursor()
         cursor.execute("""
@@ -135,7 +142,7 @@ def remove_whitelist(guild_id, etype, eid=None, val=None):
 
 
 # -------------------------
-# Raw DB Helpers (for fast-changing tables)
+# Raw DB Helpers
 # -------------------------
 def execute(query, params=()):
     """Execute a write query (for logs/infractions/etc)."""
